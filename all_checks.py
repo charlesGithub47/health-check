@@ -2,7 +2,7 @@
 import os
 import sys
 import shutil
-# Testing rebase
+# Testing rebase another example
 
 def check_reboot():
     '''Returns True if the computer has a pending reboot.'''
